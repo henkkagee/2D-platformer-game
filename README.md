@@ -7,16 +7,11 @@
 
 ## Directory structure
 
-  Koodi loytyy suoraan paahakemistosta .py-paatteisista tiedostoista, kuvat seka
-  aanitehosteet assets-kansiosta, dokumentaatio ja suunnitelmat doc-kansiosta, ja
-  kentat maps-kansiosta.
   The code is found in .py-files in the root directory, used images and sounds in /assets,
   maps in /maps and documentation in /doc.
 
 ## Requirements
 
-  Ohjelma tarvitsee toimiakseen PyQt:n. Vanhin testattu versio on 5.4.1, jolla
-  peli toimii.
   At least PyQT 5.4.1 is needed to run the program, along with Python 3.
 
 ## Instructions
