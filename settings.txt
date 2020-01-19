@@ -1,0 +1,24 @@
+Y2-platformer settings:
+
+# ƒl‰ poista ensimm‰ist‰ rivi‰
+# T‰ll‰ tiedostolla voi m‰‰ritt‰‰ ohjelman eri ominaisuuksia
+
+# Pelin virkistystaajuus muodossa kuvia / sekunti (fps)
+framerate=60
+
+# Voit m‰‰ritt‰‰ pelin kuvatiedostot muuttamalla tiedostojen nimi‰ ja lis‰‰m‰ll‰ omat kuvat
+# assets-kansioon
+
+greentiletexture=grasstile.png
+
+redtiletexture=crate.png
+
+blacktiletexture=fin.png
+
+yellowtiletexture=fire.png
+
+playertexture=plr.png
+
+menubackground=menubackground.png
+
+gamebackground=skybox.png
